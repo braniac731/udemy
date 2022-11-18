@@ -137,7 +137,7 @@ margin-top:5%;
 }
 #footer {
 
-margin-top:300px;
+margin-top:100px;
 }
 .flex-bo {
 display: flex;
@@ -201,9 +201,59 @@ color:white;
     margin-left: 100px;
 }
 .head {
-    margin-left: 100px;
+    margin-left: 120px;
+    margin-top: 30px;
     font-style: bold;
 }
 .subhead{
+    margin-left: 120px;
+    margin-top: 20px;
+}
+.nav2 {
+    margin-left: 93px;
+}
+.tab-content {
     margin-left: 100px;
+    margin-right: 60px;
+}
+.card{
+    margin-top: 20px;
+}
+.card > img {
+   width: auto;
+}
+.cardmain {
+    display: flex;
+}
+.courses {
+    margin-left: 90px;
+    display: flex;
+}
+.headmid {
+    margin-left: 90px;
+}
+.midup {
+    font-size: 19px;
+    margin-left: 100px;
+} 
+.navup {
+    margin-left: 90px;
+    margin-top: 50px;
+}
+.navin {
+    margin-left: 10px;
+}
+.miduph {
+    font-size: 22px;
+}
+.nav3 {
+    background-color: #f8f7f7;
+}
+.nav4 {
+    text-align: center;
+    margin-top: 50px;
+}
+.logo {
+    display: flex;
+    justify-content: space-around;
 }
